@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/fedex-3.10.11.iml" filepath="$PROJECT_DIR$/.idea/fedex-3.10.11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/fedex_ship-0.1.0.iml" filepath="$PROJECT_DIR$/.idea/fedex_ship-0.1.0.iml" />
     </modules>
   </component>
 </project>
