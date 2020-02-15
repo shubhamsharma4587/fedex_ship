@@ -1,0 +1,15 @@
+*.gem
+.bundle
+Gemfile.lock
+pkg/*
+.rvmrc
+doc/*
+.yardoc/*
+pkg/*
+.yardopts
+fedex_credentials.yml
+spec/vcr
+*.bbprojectd
+.DS_Store
+hacks
+.ruby-version

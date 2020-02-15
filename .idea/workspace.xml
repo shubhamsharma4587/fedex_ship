@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="990085f3-e2a7-4a03-bd53-97be77a5c3a4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1XnCw3082i4OKdePhzj80FqorwH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="990085f3-e2a7-4a03-bd53-97be77a5c3a4" name="Default Changelist" comment="" />
+      <created>1581672706712</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581672706712</updated>
+      <workItem from="1581672710596" duration="7749000" />
+      <workItem from="1581752807148" duration="2078000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="127" width="1156" height="548" maximized="true" key="DiffContextDialog" timestamp="1581753389714">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="100" y="127" width="1156" height="548" maximized="true" key="DiffContextDialog/0.27.1366.741@0.27.1366.741" timestamp="1581753389714" />
+    <state x="218" y="80" width="977" height="606" key="find.popup" timestamp="1581755846660">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="218" y="80" width="977" height="606" key="find.popup/0.27.1366.741@0.27.1366.741" timestamp="1581755846660" />
+    <state x="331" y="128" width="1012" height="538" key="find.popup/0.27.3286.1053@0.27.3286.1053" timestamp="1581746965342" />
+    <state x="347" y="40" width="672" height="676" key="search.everywhere.popup" timestamp="1581754305965">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="347" y="40" width="672" height="676" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1581754305965" />
+  </component>
+</project>
